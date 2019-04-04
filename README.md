@@ -16,3 +16,6 @@ Congratulations on creating your first app! Feel free to replace this text with 
     │   ├── iparams.json           Contains the parameters that will be collected during installation
     │   └── iparam_test_data.json  Contains sample Iparam values that will used during testing
     └── manifest.json              Contains app meta data and configuration information
+# Set the node version to 6.10.0
+
+# run 'fdk run'
